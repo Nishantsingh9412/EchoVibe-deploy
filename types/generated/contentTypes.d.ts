@@ -405,7 +405,6 @@ export interface ApiProductProduct extends Schema.CollectionType {
     singularName: 'product';
     pluralName: 'products';
     displayName: 'product';
-    description: '';
   };
   options: {
     draftAndPublish: true;
